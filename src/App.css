@@ -1,0 +1,10 @@
+body{
+    margin:0;
+}
+.App{
+    max-width: 320px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 10px;
+    background-image: linear-gradient(#ffffff,#fffc00);
+}
